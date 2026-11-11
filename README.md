@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello my name is Cedric Sandoval. I am currently a Computer Science major at UIC. I am very passionate about game design.
 
 <!--
 **Cedric0de/Cedric0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
